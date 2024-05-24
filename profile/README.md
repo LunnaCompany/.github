@@ -1,7 +1,6 @@
 <h1>Lunna 💜💜</h1> 
 
-![lunnagitcpapa](https://github.com/LunnaCompany/.github/assets/147529312/fc194a60-a446-43d4-8fda-01622be88554)
-
+![lunnagitcpapa](https://github.com/LunnaCompany/.github/assets/147529312/e4bfbd0e-f45f-4a94-82b8-e6a8f64811ac)
 
 <h2>Sobre nós:</h2>
 <div align="justify">    
