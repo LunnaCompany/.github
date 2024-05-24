@@ -15,8 +15,9 @@ Somos um grupo de estudantes dedicados a criar a Lunna, uma solução inovadora 
 
 <h2>Conheça nossa equipe:</h2>
 
+<div align="center">
 ![Frame 1](https://github.com/LunnaCompany/.github/assets/147529312/fd645834-4699-4a6a-b40a-5973da335e90)
-
+</div>
 
 <h2>Siga a Lunna nas nossas redes sociais:</h2>  
     
